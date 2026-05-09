@@ -4,3 +4,7 @@ Buenass, soy Matías Agustín Rojas, tengo 21 años. Me gustan mucho las sitcoms
 Todavía no sé si programar me va a dar plata o problemas psicológicos pero estoy para averiguarlo 
 
 legajo: 222656-0
+
+<p align="center">
+  <img src="cara.jpg" width="250">
+</p>
